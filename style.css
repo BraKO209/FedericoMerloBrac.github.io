@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+table td {
+  padding: 5px;
+}
+
+h2, p {
+  color: #444;
+}
